@@ -1,0 +1,5 @@
+﻿  main.cpp
+  E:\Учеба\Лабы(4 семестр)\ООП\РГЗ\Tetris\Tetris\Game.h(436) : warning C4715: FigureL::isTrue: значение возвращается не при всех путях выполнения
+  E:\Учеба\Лабы(4 семестр)\ООП\РГЗ\Tetris\Tetris\Game.h(540) : warning C4715: FigureTriangle::isTrue: значение возвращается не при всех путях выполнения
+  E:\Учеба\Лабы(4 семестр)\ООП\РГЗ\Tetris\Tetris\Game.h(605) : warning C4715: FigureZ::isTrue: значение возвращается не при всех путях выполнения
+  Tetris.vcxproj -> E:\Учеба\Лабы(4 семестр)\ООП\РГЗ\Tetris\Debug\Tetris.exe
